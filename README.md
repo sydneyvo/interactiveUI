@@ -1,4 +1,4 @@
-read mejk
+read mejkd
  bf
 ghjd
 ghjc
