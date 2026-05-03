@@ -1,5 +1,5 @@
 read mejkdd
- bf
+ bfs
 ghjd
 ghjc
 d
