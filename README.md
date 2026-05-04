@@ -1,3 +1,3 @@
 read mews
-aw
+awr
 sw
