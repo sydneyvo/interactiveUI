@@ -1,4 +1,4 @@
 read
-s
+sd
 s
 s
