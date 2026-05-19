@@ -1,2 +1,2 @@
-areadw
+areadws
 mess
