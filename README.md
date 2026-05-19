@@ -1,4 +1,1 @@
-readsddds
-sddd
-sdd
-sds
+read
