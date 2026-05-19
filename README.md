@@ -1,2 +1,2 @@
-readw
+areadw
 mes
