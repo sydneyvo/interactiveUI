@@ -2,7 +2,7 @@ read me
  hwefw
  sasvc
    
-  s 
+  s vc
     d
       sw
     f
