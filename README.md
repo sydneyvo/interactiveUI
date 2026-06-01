@@ -2,7 +2,7 @@ read me
  hwefwhhjk
  sasvcsafhj
    
-  s vc
+  s vchk
     ds
       sw
     f j,
