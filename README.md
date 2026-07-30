@@ -3,7 +3,7 @@ read meqwe
   sdf    s w
      dss
  sss
-  sss
+  ssss
   ss
  s
   ss
