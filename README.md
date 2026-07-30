@@ -2,7 +2,7 @@ read meqwe
  sa     fsdsw
   sdf    s w
      d
-  s   sf
+  s   sfs
  sss
   ss
   s
