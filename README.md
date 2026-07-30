@@ -1,5 +1,5 @@
 read me
- s     f
+ s     fs
       s w
      d
   s   sf
