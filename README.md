@@ -1,6 +1,6 @@
 read me
  s     f
-      s 
+      s w
      d
      sf
  ss
