@@ -2,7 +2,7 @@ read me
  s     f
       s w
      d
-     sf
+  s   sf
  ss
   ss
   s
