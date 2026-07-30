@@ -5,7 +5,7 @@ read meqwe
   s   sfss
  sss
   ss
-  s
+  ss
  s
   s
 s
