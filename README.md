@@ -1,8 +1,7 @@
 read meqwe
  sa     fsdsw
   sdf    s w
-     dsss
-  ssssd
+     dsssf
   sss
  sassasdf
   sss
